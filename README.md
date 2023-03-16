@@ -1,0 +1,2 @@
+# fusion
+ Projeto cadêmico Django
